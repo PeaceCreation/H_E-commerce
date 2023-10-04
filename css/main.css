@@ -18364,7 +18364,7 @@ body {
 
 .navbar-nav {
   display: flex !important;
-  align-items: center !important;
+  align-items: center;
   gap: 15px !important;
 }
 
